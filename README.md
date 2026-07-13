@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
@@ -69,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0238-product-of-array-except-self) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
