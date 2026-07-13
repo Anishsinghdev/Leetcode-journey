@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0400-nth-digit) |
