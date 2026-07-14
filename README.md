@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
+| [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
