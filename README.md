@@ -142,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
