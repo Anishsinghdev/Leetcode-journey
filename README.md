@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 ## String
 |  |
