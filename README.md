@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
+| [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
+| [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 ## Linked List
 |  |
 | ------- |
