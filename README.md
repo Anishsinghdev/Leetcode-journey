@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -230,4 +232,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
