@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0077-combinations) |
 ## Matrix
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
