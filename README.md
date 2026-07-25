@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
 ## Math
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 ## Depth-First Search
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
