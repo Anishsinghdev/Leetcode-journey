@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0400-nth-digit) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
