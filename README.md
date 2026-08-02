@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
+| [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
