@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
