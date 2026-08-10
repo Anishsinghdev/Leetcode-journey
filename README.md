@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
