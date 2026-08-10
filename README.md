@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
