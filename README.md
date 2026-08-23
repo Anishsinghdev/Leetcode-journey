@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
