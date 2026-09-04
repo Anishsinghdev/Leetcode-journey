@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
