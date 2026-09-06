@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
@@ -385,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
