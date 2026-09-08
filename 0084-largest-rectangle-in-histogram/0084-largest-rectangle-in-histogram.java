@@ -1,37 +1,56 @@
+import java.util.*;
+
 class Solution {
     public int largestRectangleArea(int[] heights) {
 
         int n = heights.length;
-        int maxArea = 0;
+
+        int[] left = new int[n];   // left smaller nearest
+        int[] right = new int[n];  // right smaller nearest
 
         Stack<Integer> st = new Stack<>();
 
-        for (int i = 0; i <= n; i++) {
+        // Right smaller
+        for (int i = n - 1; i >= 0; i--) {
 
-            int currentHeight = (i == n) ? 0 : heights[i];
-
-            while (!st.empty() && heights[st.peek()] > currentHeight) {
-
-                int height = heights[st.pop()];
-
-                int width;
-
-                if (st.empty()) {
-                    width = i;
-                } else {
-                    width = i - st.peek() - 1;
-                }
-
-                int area = height * width;
-
-                maxArea = Math.max(maxArea, area);
+            while (!st.empty() && heights[st.peek()] >= heights[i]) {
+                st.pop();
             }
 
-            if (i < n) {
-                st.push(i);
-            }
+            right[i] = st.empty() ? n : st.peek();
+
+            st.push(i);
         }
 
-        return maxArea;
+        // Clear stack
+        while (!st.empty()) {
+            st.pop();
+        }
+
+        // Left smaller
+        for (int i = 0; i < n; i++) {
+
+            while (!st.empty() && heights[st.peek()] >= heights[i]) {
+                st.pop();
+            }
+
+            left[i] = st.empty() ? -1 : st.peek();
+
+            st.push(i);
+        }
+
+        // Calculate maximum area
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            int width = right[i] - left[i] - 1;
+
+            int currArea = heights[i] * width;
+
+            ans = Math.max(ans, currArea);
+        }
+
+        return ans;
     }
 }
