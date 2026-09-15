@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0400-nth-digit) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
