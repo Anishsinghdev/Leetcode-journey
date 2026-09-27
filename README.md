@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0162-find-peak-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
