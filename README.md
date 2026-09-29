@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0400-nth-digit) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
 ## Monotonic Stack
 |  |
 | ------- |
