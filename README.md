@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Design
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
+| [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Tree
 |  |
 | ------- |
