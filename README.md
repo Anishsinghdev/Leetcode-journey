@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
