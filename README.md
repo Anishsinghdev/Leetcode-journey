@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0027-remove-element) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
