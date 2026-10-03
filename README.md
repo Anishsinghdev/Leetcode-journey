@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
 |  |
 | ------- |
