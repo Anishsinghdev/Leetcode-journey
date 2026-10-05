@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
