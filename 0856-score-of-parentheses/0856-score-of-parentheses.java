@@ -8,17 +8,16 @@ class Solution {
 
             if (ch == '(') {
                 stack.push(0);
-            } 
-            else {
-                int current = stack.pop();
+            } else {
+                int curr = stack.pop();
 
-                if (current == 0) {
-                    current = 1;
+                if (curr == 0) {
+                    curr = 1;
                 } else {
-                    current = 2 * current;
+                    curr = 2 * curr;
                 }
 
-                stack.push(stack.pop() + current);
+                stack.push(stack.pop() + curr);
             }
         }
 
