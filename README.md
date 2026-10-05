@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
