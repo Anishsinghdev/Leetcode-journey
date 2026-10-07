@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
