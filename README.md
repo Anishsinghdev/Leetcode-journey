@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Graph Theory
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
