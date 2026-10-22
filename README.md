@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
