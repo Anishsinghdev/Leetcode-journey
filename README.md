@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
+| [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
 ## Depth-First Search
 |  |
 | ------- |
