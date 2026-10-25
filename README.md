@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
 | ------- |
