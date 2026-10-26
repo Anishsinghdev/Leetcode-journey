@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
+| [0560-subarray-sum-equals-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
