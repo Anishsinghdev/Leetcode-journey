@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1901-find-a-peak-element-ii) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -294,12 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -535,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
