@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,10 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 | [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0098-validate-binary-search-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -549,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
