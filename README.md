@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
