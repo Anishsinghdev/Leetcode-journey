@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0074-search-a-2d-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
