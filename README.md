@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0301-remove-invalid-parentheses) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -557,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -577,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0056-merge-intervals) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
