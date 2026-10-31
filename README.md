@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1901-find-a-peak-element-ii) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
