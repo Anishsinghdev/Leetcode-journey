@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -591,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0139-word-break) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
