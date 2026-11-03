@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1944-number-of-visible-people-in-a-queue) |
