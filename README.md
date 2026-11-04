@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3665-twisted-mirror-path-count) |
 ## Math
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Data Stream
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -456,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
 |  |
 | ------- |
