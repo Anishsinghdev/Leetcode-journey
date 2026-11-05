@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1901-find-a-peak-element-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Design
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
