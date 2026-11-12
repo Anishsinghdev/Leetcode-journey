@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -634,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0986-interval-list-intersections) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
