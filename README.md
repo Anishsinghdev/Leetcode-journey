@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0495-teemo-attacking](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0525-contiguous-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
