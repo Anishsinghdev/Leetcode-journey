@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2363-merge-similar-items) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
 | ------- |
