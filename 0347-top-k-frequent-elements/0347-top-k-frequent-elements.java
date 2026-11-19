@@ -1,31 +1,38 @@
+import java.util.*;
+
 class Solution {
+    class Pair {
+        int freq, num;
+
+        Pair(int freq, int num) {
+            this.freq = freq;
+            this.num = num;
+        }
+    }
+
     public int[] topKFrequent(int[] nums, int k) {
-        Map<Integer, Integer> freq = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        List<Integer>[] bucket = new ArrayList[nums.length + 1];
+        PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (a, b) -> Integer.compare(a.freq, b.freq)
+        );
 
-        for (int num : freq.keySet()) {
-            int f = freq.get(num);
-            if (bucket[f] == null) {
-                bucket[f] = new ArrayList<>();
+        for (int num : map.keySet()) {
+            pq.offer(new Pair(map.get(num), num));
+
+            if (pq.size() > k) {
+                pq.poll();
             }
-            bucket[f].add(num);
         }
 
         int[] ans = new int[k];
-        int idx = 0;
 
-        for (int i = bucket.length - 1; i >= 0 && idx < k; i--) {
-            if (bucket[i] != null) {
-                for (int num : bucket[i]) {
-                    ans[idx++] = num;
-                    if (idx == k) break;
-                }
-            }
+        for (int i = 0; i < k; i++) {
+            ans[i] = pq.poll().num;
         }
 
         return ans;
