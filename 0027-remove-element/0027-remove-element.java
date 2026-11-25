@@ -1,13 +1,16 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int k = 0;
+        int left = 0;
+        int right = nums.length;
 
-        for (int num : nums) {
-            if (num != val) {
-                nums[k++] = num;
+        while (left < right) {
+            if (nums[left] == val) {
+                nums[left] = nums[right - 1];
+                right--; // Shrink valid array size
+            } else {
+                left++;  // Element is good, move forward
             }
         }
-
-        return k;
+        return right;
     }
 }
