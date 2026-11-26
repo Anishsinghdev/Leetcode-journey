@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/1903-largest-odd-number-in-string) |
+| [3360-stone-removal-game](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/3524-find-x-value-of-array-i) |
