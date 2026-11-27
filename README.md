@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0553-optimal-division](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Anishsinghdev/Leetcode-journey/tree/master/0556-next-greater-element-iii) |
